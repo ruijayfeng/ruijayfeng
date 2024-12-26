@@ -21,6 +21,8 @@
 <p align="center">
   <a href="https://fengzhe.space">
     <img alt="Personal Blog" title="Visit my blog" src="https://custom-icon-badges.demolab.com/badge/-Blog-orange?style=for-the-badge&logo=browser&logoColor=white"/></a>
+  <a href="https://blog.csdn.net/SDFsoul">
+    <img alt="CSDN" title="CSDN Blog" src="https://img.shields.io/badge/CSDN-293.2K-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUxMiA2NEMyNjQuNiA2NCA2NCAyNjQuNiA2NCA1MTJzMjAwLjYgNDQ4IDQ0OCA0NDhzNDQ4LTIwMC42IDQ0OC00NDhTNzU5LjQgNjQgNTEyIDY0em0yMDkgNjE5LjZjLTMuMiA0LjEtOS40IDQuNi0xMy4xIDEuMmwtNTMuOC00OC44Yy0zLjgtMy41LTQuMy05LjctMS4yLTEzLjlsNTguMS02OS42YzMuMi00LjEgOS40LTQuNiAxMy4xLTEuMmw1My44IDQ4LjhjMy44IDMuNSA0LjMgOS43IDEuMiAxMy45bC01OC4xIDY5LjZ6TTczMy42IDQwMi4xQzY5MS4yIDM2NS4yIDYyNCAzNDQgNTUyIDM0NGMtNzIgMC0xMzkuMiAyMS4zLTE4MS42IDU4LjJDMzI4IDQzOS4yIDMwNCA0ODkuNCAzMDQgNTQ0YzAgNTQuNSAyNCA5OS40IDY2LjQgMTMzLjNDNDEyLjggNzE0LjIgNDgwIDczNiA1NTIgNzM2YzcyIDAgMTM5LjItMjEuOCAxODEuNi01OC44YzQyLjQtMzcgNjYuNC04Ni44IDY2LjQtMTMzLjNjMC01NC41LTI0LTEwNC43LTY2LjQtMTQxLjh6Ii8+PC9zdmc+"/></a>
   <a href="https://github.com/rollingtudou?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rollingtudou?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/rollingtudou?tab=followers">
@@ -96,7 +98,6 @@
   </a>
   <br/>
 
-  <b>注意：</b>Top languages 仅根据你的公开代码统计语言，不代表你的经验或技能水平。
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="rollingtudou's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rollingtudou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
@@ -113,8 +114,3 @@
   <!--END_SECTION:activity-->
 
 </details>
-此页面的语言为英语
-翻译为中文（简体） 
-随时将英语翻译为中文（简体）
-一律不翻译英语
-一律不翻译raw.githubusercontent.com
