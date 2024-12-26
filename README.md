@@ -2,6 +2,9 @@
 
 **热爱前沿科技 | 足球迷 | 巴塞罗那支持者**
 
+<img src="https://pic.imgdb.cn/item/676d1027d0e0a243d4eab936.gif" alt="Shigure Ui Dance GIF – Shigure ui Dance Ui mama – Ищите GIF-файлы и обменивайтесь ими.gif">
+<img src="https://pic.imgdb.cn/item/676d1024d0e0a243d4eab92f.gif" alt="6b698676-36c4-4fb3-b405-e820ce8792b6.gif">
+
 [![Bilibili](https://img.shields.io/badge/Bilibili-blue?logo=bilibili&logoColor=white)](https://bilibili.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com) 
 [![X (Twitter)](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://twitter.com) 
