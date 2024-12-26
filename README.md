@@ -1,9 +1,4 @@
 <p align="center">
-  <a href="https://github.com/rollingtudou">
-    <img src="YOUR_AVATAR_URL" alt="Zany Feng" /></a>
-</p>
-
-<p align="center">
   <!-- Typing SVG by You - Customize as needed -->
   <a href="https://github.com/rollingtudou/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Zany%20Feng,%20a%20university%20student%20from%20China.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -36,13 +31,7 @@
 
 <br/>
 
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/rollingtudou/">
-    <img src="https://github.com/rollingtudou/rollingtudou/assets/yourid/yourimage.png" alt="GitHub Star 2023"/></a>
-</p>
 
-<!-- 移除赞助者信息、顶级开源项目、贡献的项目、最新的 YouTube 视频、Holopin 链接 -->
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -88,37 +77,40 @@
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-    <h3>🔥 Streak Stats</h3>
+  <h3>🔥 Streak Stats</h3>
 
-    <p>
-      <a href="https://github.com/rollingtudou/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rollingtudou's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=rollingtudou&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-      </a>
-      <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-    </p>
+  <p>
+    <a href="https://github.com/rollingtudou/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rollingtudou's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=rollingtudou&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
-    <h3>💻 GitHub Profile Stats</h3>
+  <h3>💻 GitHub Profile Stats</h3>
 
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rollingtudou's Github Stats" src="https://rollingtudou-github-readme-stats.vercel.app/api/?username=rollingtudou&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rollingtudou's Top Languages" src="https://rollingtudou-github-readme-stats.vercel.app/api/top-langs/?username=rollingtudou&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-    <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="rollingtudou's Github Stats" src="https://rollingtudou-github-readme-stats.vercel.app/api/?username=rollingtudou&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="rollingtudou's Top Languages" src="https://rollingtudou-github-readme-stats.vercel.app/api/top-langs/?username=rollingtudou&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+  <br/>
 
-    <b>注意：</b>Top languages 仅根据你的公开代码统计语言，不代表你的经验或技能水平。
+  <b>注意：</b>Top languages 仅根据你的公开代码统计语言，不代表你的经验或技能水平。
 
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rollingtudou's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rollingtudou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="rollingtudou's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rollingtudou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
 
-    <h3>⚡ Recent GitHub Activity</h3>
+  <h3>⚡ Recent GitHub Activity</h3>
 
-    <!-- 你可以手动更新此部分或使用自动化工具 -->
-    <!--START_SECTION:activity-->
-
+  <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#123](https://github.com/rollingtudou/awesome-project/pull/123) in [rollingtudou/awesome-project](https://github.com/rollingtudou/awesome-project)
 2. 🗣 Commented on [#45](https://github.com/opensource/open-source-tool/issues/45) in [opensource/open-source-tool](https://github.com/opensource/open-source-tool)
 3. 🎉 Merged PR [#67](https://github.com/cool-library/cool-library/pull/67) in [cool-library/cool-library](https://github.com/cool-library/cool-library)
 4. 🎉 Merged PR [#89](https://github.com/anotheruser/another-project/pull/89) in [anotheruser/another-project](https://github.com/anotheruser/another-project)
 5. 🎉 Merged PR [#101](https://github.com/rollingtudou/another-project/pull/101) in [rollingtudou/another-project](https://github.com/rollingtudou/another-project)
-
-    <!--END_SECTION:activity-->
+  <!--END_SECTION:activity-->
 
 </details>
 此页面的语言为英语
