@@ -24,16 +24,14 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://www.youtube.com/@fengKevin-m9c?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/yourusername/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/@fengKevin-m9c">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/yourusername/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://fengzhe.space">
+    <img alt="Personal Blog" title="Visit my blog" src="https://custom-icon-badges.demolab.com/badge/-Blog-orange?style=for-the-badge&logo=browser&logoColor=white"/></a>
   <a href="https://github.com/rollingtudou?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rollingtudou?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/rollingtudou?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rollingtudou?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/rollingtudou/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/rollingtudou/app/rollingtudou-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 <br/>
