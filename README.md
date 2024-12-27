@@ -15,11 +15,9 @@
   <a href="https://www.instagram.com/kevin_bee_f/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <br/>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="./2.gif" alt="Right GIF" style="width: 60%; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./2.gif" alt="Centered GIF" style="width: 60%; height: auto;">
 </div>
-
 <!-- Social badges section -->
 <p align="center">
   <a href="https://fengzhe.space">
