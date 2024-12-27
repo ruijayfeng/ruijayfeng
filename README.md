@@ -17,6 +17,12 @@
 
 <br/>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="./1.gif" alt="Left GIF" style="width: 45%; height: auto;">
+    <img src="./2.gif" alt="Right GIF" style="width: 45%; height: auto;">
+</div>
+
+
 <!-- Social badges section -->
 <p align="center">
   <a href="https://fengzhe.space">
