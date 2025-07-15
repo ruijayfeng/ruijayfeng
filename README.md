@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG by You - Customize as needed -->
-  <a href="https://github.com/rollingtudou/readme-typing-svg">
+  <a href="https://github.com/ruijayfeng/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Zany%20Feng,%20a%20university%20student%20from%20China.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -21,12 +21,12 @@
   <a href="https://fengzhe.space">
     <img alt="Personal Blog" title="Visit my blog" src="https://custom-icon-badges.demolab.com/badge/-Blog-orange?style=for-the-badge&logo=browser&logoColor=white"/></a>
   <a href="https://blog.csdn.net/SDFsoul">
-    <img alt="CSDN" title="CSDN Blog" src="https://img.shields.io/badge/CSDN-293.2K-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUxMiA2NEMyNjQuNiA2NCA2NCAyNjQuNiA2NCA1MTJzMjAwLjYgNDQ4IDQ0OCA0NDhzNDQ4LTIwMC42IDQ0OC00NDhTNzU5LjQgNjQgNTEyIDY0em0yMDkgNjE5LjZjLTMuMiA0LjEtOS40IDQuNi0xMy4xIDEuMmwtNTMuOC00OC44Yy0zLjgtMy41LTQuMy05LjctMS4yLTEzLjlsNTguMS02OS42YzMuMi00LjEgOS40LTQuNiAxMy4xLTEuMmw1My44IDQ4LjhjMy44IDMuNSA0LjMgOS43IDEuMiAxMy45bC01OC4xIDY5LjZ6TTczMy42IDQwMi4xQzY5MS4yIDM2NS4yIDYyNCAzNDQgNTUyIDM0NGMtNzIgMC0xMzkuMiAyMS4zLTE4MS42IDU4LjJDMzI4IDQzOS4yIDMwNCA0ODkuNCAzMDQgNTQ0YzAgNTQuNSAyNCA5OS40IDY2LjQgMTMzLjNDNDEyLjggNzE0LjIgNDgwIDczNiA1NTIgNzM2YzcyIDAgMTM5LjItMjEuOCAxODEuNi01OC44YzQyLjQtMzcgNjYuNC04Ni44IDY2LjQtMTMzLjNjMC01NC41LTI0LTEwNC43LTY2LjQtMTQxLjh6Ii8+PC9zdmc+"/></a>
-  <a href="https://github.com/rollingtudou?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rollingtudou?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/rollingtudou?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rollingtudou?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/rollingtudou/Simple-View-Counter">
+    <img alt="CSDN" title="CSDN Blog" src="https://img.shields.io/badge/CSDN-10k follower-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUxMiA2NEMyNjQuNiA2NCA2NCAyNjQuNiA2NCA1MTJzMjAwLjYgNDQ4IDQ0OCA0NDhzNDQ4LTIwMC42IDQ0OC00NDhTNzU5LjQgNjQgNTEyIDY0em0yMDkgNjE5LjZjLTMuMiA0LjEtOS40IDQuNi0xMy4xIDEuMmwtNTMuOC00OC44Yy0zLjgtMy41LTQuMy05LjctMS4yLTEzLjlsNTguMS02OS42YzMuMi00LjEgOS40LTQuNiAxMy4xLTEuMmw1My44IDQ4LjhjMy44IDMuNSA0LjMgOS43IDEuMiAxMy45bC01OC4xIDY5LjZ6TTczMy42IDQwMi4xQzY5MS4yIDM2NS4yIDYyNCAzNDQgNTUyIDM0NGMtNzIgMC0xMzkuMiAyMS4zLTE4MS42IDU4LjJDMzI4IDQzOS4yIDMwNCA0ODkuNCAzMDQgNTQ0YzAgNTQuNSAyNCA5OS40IDY2LjQgMTMzLjNDNDEyLjggNzE0LjIgNDgwIDczNiA1NTIgNzM2YzcyIDAgMTM5LjItMjEuOCAxODEuNi01OC44YzQyLjQtMzcgNjYuNC04Ni44IDY2LjQtMTMzLjNjMC01NC41LTI0LTEwNC43LTY2LjQtMTQxLjh6Ii8+PC9zdmc+"/></a>
+  <a href="https://github.com/ruijayfeng?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ruijayfeng?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/ruijayfeng?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ruijayfeng?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ruijayfeng/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
@@ -41,12 +41,12 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-      <a href="https://github.com/search?q=user%3Arollingtudou+language%3AC"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Arollingtudou+language%3AC%2B%2B"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Arollingtudou+language%3ACSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Arollingtudou+language%3AHTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Arollingtudou+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3Arollingtudou+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aruijayfeng+language%3AC"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aruijayfeng+language%3AC%2B%2B"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aruijayfeng+language%3ACSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aruijayfeng+language%3AHTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aruijayfeng+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3Aruijayfeng+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -82,7 +82,7 @@
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile" alt="rollingtudou's streak" src="https://streak-stats.demolab.com?user=rollingtudou&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile" alt="ruijayfeng's streak" src="https://streak-stats.demolab.com?user=ruijayfeng&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
@@ -90,27 +90,27 @@
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="rollingtudou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rollingtudou&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+      <img alt="ruijayfeng's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ruijayfeng&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="rollingtudou's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollingtudou&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+      <img alt="ruijayfeng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijayfeng&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="rollingtudou's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rollingtudou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+      <img alt="ruijayfeng's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ruijayfeng&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
     </a>
   </p>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/rollingtudou/awesome-project/pull/123) in [rollingtudou/awesome-project](https://github.com/rollingtudou/awesome-project)
+1. 🎉 Merged PR [#123](https://github.com/ruijayfeng/awesome-project/pull/123) in [ruijayfeng/awesome-project](https://github.com/ruijayfeng/awesome-project)
 2. 🗣 Commented on [#45](https://github.com/opensource/open-source-tool/issues/45) in [opensource/open-source-tool](https://github.com/opensource/open-source-tool)
 3. 🎉 Merged PR [#67](https://github.com/cool-library/cool-library/pull/67) in [cool-library/cool-library](https://github.com/cool-library/cool-library)
 4. 🎉 Merged PR [#89](https://github.com/anotheruser/another-project/pull/89) in [anotheruser/another-project](https://github.com/anotheruser/another-project)
-5. 🎉 Merged PR [#101](https://github.com/rollingtudou/another-project/pull/101) in [rollingtudou/another-project](https://github.com/rollingtudou/another-project)
+5. 🎉 Merged PR [#101](https://github.com/ruijayfeng/another-project/pull/101) in [ruijayfeng/another-project](https://github.com/ruijayfeng/another-project)
   <!--END_SECTION:activity-->
 
 </details>
