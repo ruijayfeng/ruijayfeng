@@ -1,0 +1,9 @@
+<!-- save as banner-terminal.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="120" viewBox="0 0 820 120">
+  <rect width="820" height="120" rx="10" fill="#051025"/>
+  <text x="34" y="64" font-family="Fira Code, monospace" font-size="22" fill="#c7f0ff">&gt; echo "Hello, I'm Jay Feng"</text>
+  <!-- 闪烁光标 -->
+  <rect x="380" y="46" width="10" height="18" fill="#c7f0ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
