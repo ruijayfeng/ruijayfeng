@@ -1,8 +1,6 @@
 <!-- 个人主页 README 优化版 -->
 <p align="center">
-  <a href="https://github.com/ruijayfeng">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=420&lines=你好，我是+Jay+Feng👋;一名热爱技术与分享的开发者🚀;专注C++后端%2C+AI与前端交互✨" alt="Typing SVG" />
-  </a>
+  <img src="./assets/banner-hero.svg" alt="banner" />
 </p>
 
 ---
