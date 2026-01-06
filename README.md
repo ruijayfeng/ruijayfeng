@@ -1,18 +1,3 @@
-<!-- 个人主页 README 优化版 -->
-<p align="center">
-  <img src="./assets/banner-hero.svg" alt="banner" />
-</p>
-
----
-
-<p align="center">
-  <samp>
-    💡 一位热衷于创造与探索的开发者 <br>
-    💻 喜欢干净的代码、优雅的架构与智能的系统 <br>
-    🌏 正在探索 AI + IoT + 数据可视化 的融合创新方向
-  </samp>
-</p>
-
 <p align="center">
   📫 <strong>联系我：</strong> <a href="mailto:fz.dev@foxmail.com">fz.dev@foxmail.com</a>
 </p>
@@ -55,34 +40,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruijayfeng&bg_color=1F222E&color=30A0F0&line=30A0F0&point=FFFFFF&hide_border=true" />
-</p>
-
----
-
-### 🧠 技术栈与工具
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,go,js,ts,react,vue,nodejs,mysql,redis,docker,git,qt,flask&theme=light" />
-</p>
-
-<p align="center">
-  <samp>我相信技术的本质是「让世界更高效」，而非「让人更忙碌」。</samp>
-</p>
-
----
-
-### ✍️ 最近在写的内容
-> 「记录、思考、输出」是持续成长的力量。
-
-- 🧩 [深入理解 Qt 信号与槽函数：Qt4 与 Qt5 对比讲解](https://blog.csdn.net/SDFsoul)
-- ⚙️ [C++11 移动语义详解：default、delete、override 实战](https://blog.csdn.net/SDFsoul)
-- 🧠 [机器学习入门笔记：从零搭建分类器](https://blog.csdn.net/SDFsoul)
-- 💡 [智能体创新赛作品：生活娱乐类AI智能体设计思路](https://blog.csdn.net/SDFsoul)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruijayfeng&label=Profile%20views&color=30A0F0&style=flat-square" alt="Profile views" />
-  <br><br>
-  <samp>✨「代码是语言的艺术，思考是逻辑的灵魂。」✨</samp>
 </p>
