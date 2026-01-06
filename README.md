@@ -23,20 +23,7 @@
 
 ---
 
-### 📊 GitHub 概览
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruijayfeng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=30A0F0&icon_color=30A0F0" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijayfeng&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=30A0F0" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ruijayfeng&theme=tokyonight&hide_border=true&background=1F222E&ring=30A0F0&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruijayfeng&theme=onestar&no-bg=true&no-frame=true&margin-w=6" />
-</p>
+### 🌟 Contribution
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruijayfeng&bg_color=1F222E&color=30A0F0&line=30A0F0&point=FFFFFF&hide_border=true" />
