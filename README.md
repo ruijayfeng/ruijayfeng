@@ -10,33 +10,24 @@
 
 I design and build clean web experiences, reliable backend systems, and AI-powered tools with a focus on clarity, maintainability, and useful interaction.
 
-[Work](#selected-work) · [Stack](#stack) · [Links](#links) · [Contact](mailto:fz.dev@foxmail.com)
+[Project](#featured-project) · [Stack](#stack) · [Links](#links) · [Contact](mailto:fz.dev@foxmail.com)
 
 </div>
 
 ---
 
-## Selected Work
+## Featured Project
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Interface Systems</h3>
-      <p>Clean, practical interfaces for tools, dashboards, and product workflows.</p>
-      <p><code>Frontend</code> <code>UX</code> <code>Design Systems</code></p>
-      <a href="https://github.com/ruijayfeng">View profile</a>
+    <td width="64%" valign="top">
+      <h3>ZiweiKnows</h3>
+      <p>A refined open-source Ziwei Doushu tool with precise charting, AI-assisted interpretation, and self-hosting support.</p>
+      <p><code>Open Source</code> <code>AI</code> <code>Astrology</code> <code>Self-hosted</code></p>
+      <a href="https://github.com/ruijayfeng/ziwei">Open repository</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>Backend Craft</h3>
-      <p>Reliable service-side architecture, data flow, and maintainable application logic.</p>
-      <p><code>C++</code> <code>Backend</code> <code>Systems</code></p>
-      <a href="https://github.com/ruijayfeng?tab=repositories">Browse repositories</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>AI Tools</h3>
-      <p>Small, useful experiments that combine automation, interaction, and product thinking.</p>
-      <p><code>AI</code> <code>Automation</code> <code>Prototyping</code></p>
-      <a href="mailto:fz.dev@foxmail.com">Discuss an idea</a>
+    <td width="36%" valign="top">
+      <p><strong>Status</strong><br />Active project<br /><br /><strong>Focus</strong><br />Product design, charting experience, and clear information presentation<br /><br /><strong>Stack</strong><br />C++, JavaScript, Vue, AI tools</p>
     </td>
   </tr>
 </table>
