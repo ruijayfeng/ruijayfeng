@@ -18,9 +18,11 @@ I design and build clean web experiences, reliable backend systems, and AI-power
 
 ## Featured Project
 
-<a href="https://github.com/ruijayfeng/ziwei">
-  <img src="./assets/ziwei-card.svg" alt="ZiweiKnows - open-source Ziwei Doushu charting with AI-assisted interpretation" width="100%" />
-</a>
+<p align="left">
+  <a href="https://github.com/ruijayfeng/ziwei">
+    <img src="./assets/ziwei-card.svg" alt="ZiweiKnows - open-source Ziwei Doushu charting with AI-assisted interpretation" width="360" />
+  </a>
+</p>
 
 ## Stack
 
