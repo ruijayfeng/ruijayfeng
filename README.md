@@ -1,30 +1,71 @@
-<p align="center">
-  📫 <strong>联系我：</strong> <a href="mailto:fz.dev@foxmail.com">fz.dev@foxmail.com</a>
-</p>
+<div align="center">
+  <img src="./assets/banner-hero.svg" alt="Jay Feng - Developer and Product-minded Builder" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+
+### Developer & Product-minded Builder
+
+I design and build clean web experiences, reliable backend systems, and AI-powered tools with a focus on clarity, maintainability, and useful interaction.
+
+[Work](#selected-work) · [Stack](#stack) · [Links](#links) · [Contact](mailto:fz.dev@foxmail.com)
+
+</div>
 
 ---
 
-### 🌐 社交平台
+## Selected Work
 
-<p align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Interface Systems</h3>
+      <p>Clean, practical interfaces for tools, dashboards, and product workflows.</p>
+      <p><code>Frontend</code> <code>UX</code> <code>Design Systems</code></p>
+      <a href="https://github.com/ruijayfeng">View profile</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Backend Craft</h3>
+      <p>Reliable service-side architecture, data flow, and maintainable application logic.</p>
+      <p><code>C++</code> <code>Backend</code> <code>Systems</code></p>
+      <a href="https://github.com/ruijayfeng?tab=repositories">Browse repositories</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI Tools</h3>
+      <p>Small, useful experiments that combine automation, interaction, and product thinking.</p>
+      <p><code>AI</code> <code>Automation</code> <code>Prototyping</code></p>
+      <a href="mailto:fz.dev@foxmail.com">Discuss an idea</a>
+    </td>
+  </tr>
+</table>
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AI_Tools-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Tools" />
+</p>
+
+## Links
+
+<p>
   <a href="https://blog.csdn.net/SDFsoul">
-    <img alt="CSDN" src="https://img.shields.io/badge/CSDN-博客-red?style=for-the-badge&logo=C&logoColor=white"/>
-  </a>
-  <a href="https://space.bilibili.com/YOUR_BILIBILI_ID">
-    <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSDN-Writing-1f2933?style=flat-square" alt="CSDN" />
   </a>
   <a href="https://www.zhihu.com/people/ruijayfeng">
-    <img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-知乎-blue?style=for-the-badge&logo=zhihu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Zhihu-Notes-1f2933?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu" />
   </a>
   <a href="mailto:fz.dev@foxmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-邮箱-grey?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-fz.dev%40foxmail.com-1f2933?style=flat-square" alt="Email" />
   </a>
 </p>
 
----
+## Contribution
 
-### 🌟 Contribution
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruijayfeng&bg_color=1F222E&color=30A0F0&line=30A0F0&point=FFFFFF&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruijayfeng&bg_color=fbfaf7&color=374151&line=8fa6a3&point=111827&area=true&area_color=dbe7e4&hide_border=true" alt="Jay Feng GitHub activity graph" width="100%" />
