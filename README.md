@@ -18,19 +18,9 @@ I design and build clean web experiences, reliable backend systems, and AI-power
 
 ## Featured Project
 
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <h3>ZiweiKnows</h3>
-      <p>A refined open-source Ziwei Doushu tool with precise charting, AI-assisted interpretation, and self-hosting support.</p>
-      <p><code>Open Source</code> <code>AI</code> <code>Astrology</code> <code>Self-hosted</code></p>
-      <a href="https://github.com/ruijayfeng/ziwei">Open repository</a>
-    </td>
-    <td width="36%" valign="top">
-      <p><strong>Status</strong><br />Active project<br /><br /><strong>Focus</strong><br />Product design, charting experience, and clear information presentation<br /><br /><strong>Stack</strong><br />C++, JavaScript, Vue, AI tools</p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ruijayfeng/ziwei">
+  <img src="./assets/ziwei-card.svg" alt="ZiweiKnows - open-source Ziwei Doushu charting with AI-assisted interpretation" width="100%" />
+</a>
 
 ## Stack
 
@@ -51,6 +41,9 @@ I design and build clean web experiences, reliable backend systems, and AI-power
   </a>
   <a href="https://www.zhihu.com/people/ruijayfeng">
     <img src="https://img.shields.io/badge/Zhihu-Notes-1f2933?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu" />
+  </a>
+  <a href="https://x.com/ruizhefeng">
+    <img src="https://img.shields.io/badge/X-%40ruizhefeng-1f2933?style=flat-square&logo=x&logoColor=white" alt="X @ruizhefeng" />
   </a>
   <a href="mailto:fz.dev@foxmail.com">
     <img src="https://img.shields.io/badge/Email-fz.dev%40foxmail.com-1f2933?style=flat-square" alt="Email" />
