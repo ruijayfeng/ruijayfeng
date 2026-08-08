@@ -80,16 +80,12 @@
 <summary><b>📈 Expand stats</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruijayfeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.zohan.tech/api?username=ruijayfeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=ruijayfeng&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijayfeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruijayfeng&theme=tokyonight&no-frame=true&row=2&column=4" alt="Trophies"/>
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ruijayfeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 </p>
 
 </details>
