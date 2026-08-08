@@ -1,8 +1,8 @@
 <!--
-  ruijayfeng GitHub Profile — v3 Final
-  Style: Terminal hero + Football banner top + Repo pin cards + tokyonight theme
+  ruijayfeng GitHub Profile — v4 Final
+  Style: Terminal hero + Single football banner top + Clean cards + No activity graph
   Teams: FC Barcelona (Blaugrana) + Argentina (Albiceleste)
-  Language: English content, Spanish team names
+  Language: ALL English
 -->
 
 <!-- ═══════════════════════ FOOTBALL BANNER ═══════════════════════ -->
@@ -12,11 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/argentina-wc.jpg" width="100%" alt="Argentina — Campeones del Mundo!" />
-</p>
-
-<p align="center">
-  <sub><b>Visca el Barça!</b> &nbsp;·&nbsp; <b>Vamos Argentina!</b> &nbsp;·&nbsp; Blaugrana &amp; Albiceleste</sub>
+  <sub><b>Visca el Barça!</b> &nbsp;·&nbsp; Blaugrana &amp; Albiceleste &nbsp;·&nbsp; Força Barça! · Vamos Argentina!</sub>
 </p>
 
 ---
@@ -30,7 +26,7 @@
 jay@divination:~$ whoami
 
 <b>Jay Feng</b> — Code | Product | Divination | AI
-Xi'an · Building <a href="https://github.com/ziweiknows/ziwei-chart">ZiWei</a> AI tools &amp; beyond
+Based in Xi'an · Building <a href="https://github.com/ziweiknows/ziwei-chart">ZiWei</a> AI tools &amp; beyond
 
 $ cat interests.txt
 ├─ 🔮 Divination  → Zi Wei Dou Shu + LLM interpretation
@@ -131,22 +127,20 @@ $ cat interests.txt
 
 ---
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruijayfeng&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=c0caf5&area=true&area_color=1a1b26&hide_border=true" alt="Activity Graph" width="100%"/>
-
----
-
 <div align="center">
 
 ## 📫 Get in touch
 
-| | |
-|:---:|---|
-| 🌐 | [fengzhe.site](https://fengzhe.site) |
-| 🐦 | [@ruizhefeng](https://x.com/ruizhefeng) |
-| 📝 | [CSDN Blog](https://blog.csdn.net/SDFsoul) |
-| 💬 | fz.dev@foxmail.com |
+<p>
+  <a href="https://fengzhe.site">🌐 fengzhe.site</a> &nbsp;·&nbsp;
+  <a href="https://x.com/ruizhefeng">🐦 @ruizhefeng</a> &nbsp;·&nbsp;
+  <a href="https://blog.csdn.net/SDFsoul">📝 CSDN Blog</a> &nbsp;·&nbsp;
+  <a href="mailto:fz.dev@foxmail.com">💬 fz.dev@foxmail.com</a>
+</p>
+
+<br/>
+
+<img src="./assets/argentina-wc.jpg" width="60%" alt="Argentina — Campeones del Mundo!" />
 
 <br/>
 
