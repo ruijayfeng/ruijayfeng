@@ -32,40 +32,6 @@
 
 ---
 
-## ✨ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/ziweiknows/ziwei-chart">
-        <img src="./assets/ziwei-card.svg" width="100%" alt="ZiWei Knows"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>ZiWei Knows</h3>
-      <p>Open-source Zi Wei Dou Shu AI chart reader — my signature project.<br/>
-      <sub>Merging traditional Chinese divination with modern LLM interpretation.</sub></p>
-      <br/>
-      <a href="https://github.com/ruijayfeng/velvet-ascent-skill">
-        <img src="https://img.shields.io/badge/velvet--ascent--skill-%E2%98%85%2013-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="velvet"/>
-      </a>
-      <br/><sub>Chinese AI text-based GalGame agent skill (top starred)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>zh-writing-humanizer</h3>
-      <p>Remove AI-scent from Chinese writing. Make machine text feel human again.</p>
-    </td>
-    <td width="50%">
-      <h3>matlab-agentic-research-dashboard</h3>
-      <p>Quantitative research dashboard powered by MATLAB + DeepSeek agents.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <p>
