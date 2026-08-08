@@ -46,12 +46,18 @@
 <summary><b>📈 Expand stats</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api?username=ruijayfeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.zohan.tech/api?username=ruijayfeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=ruijayfeng&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ruijayfeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ziweiknows%20org-400%20%E2%98%85-004D98?style=flat-square&logo=github&logoColor=white" alt="Org Stars"/>
+  <img src="https://img.shields.io/badge/ruijayfeng%20personal-16%20%E2%98%85-75AADB?style=flat-square&logo=github&logoColor=white" alt="Personal Stars"/>
+  <img src="https://img.shields.io/badge/Total-416%20%E2%98%85-A50044?style=flat-square&logo=github&logoColor=white" alt="Total Stars"/>
 </p>
 
 </details>
