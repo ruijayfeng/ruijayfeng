@@ -1,0 +1,37 @@
+# 贪吃蛇贡献图 GitHub Action
+# 用法：保存到仓库的 .github/workflows/snake.yml，提交后会在 output 分支生成 SVG
+# 然后在 README 里引用：
+#   https://raw.githubusercontent.com/ruijayfeng/ruijayfeng/output/github-contribution-grid-snake.svg
+#   https://raw.githubusercontent.com/ruijayfeng/ruijayfeng/output/github-contribution-grid-snake-dark.svg
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 0 点自动更新
+  workflow_dispatch:       # 支持手动触发
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ruijayfeng
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
