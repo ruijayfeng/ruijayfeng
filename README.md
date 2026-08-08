@@ -1,6 +1,6 @@
 <!--
-  ruijayfeng GitHub Profile — v4 Final
-  Style: Terminal hero + Single football banner top + Clean cards + No activity graph
+  ruijayfeng GitHub Profile — v5
+  Style: Football banner top + Clean minimal + No terminal hero + No activity graph
   Teams: FC Barcelona (Blaugrana) + Argentina (Albiceleste)
   Language: ALL English
 -->
@@ -11,34 +11,13 @@
   <img src="./assets/barca-msn.jpg" width="100%" alt="FC Barcelona — Visca el Barça!" />
 </p>
 
+<h3 align="center">Jay Feng · Xi'an</h3>
 <p align="center">
-  <sub><b>Visca el Barça!</b> &nbsp;·&nbsp; Blaugrana &amp; Albiceleste &nbsp;·&nbsp; Força Barça! · Vamos Argentina!</sub>
+  Code · Product · Divination · AI<br/>
+  <sub>Building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei</b></a> AI tools &amp; beyond · FCB · Argentina 🇦🇷</sub>
 </p>
 
----
-
-<!-- ═══════════════════════ TERMINAL HERO ═══════════════════════ -->
-
-<div align="center">
-
-<pre>
-<code>
-jay@divination:~$ whoami
-
-<b>Jay Feng</b> — Code | Product | Divination | AI
-Based in Xi'an · Building <a href="https://github.com/ziweiknows/ziwei-chart">ZiWei</a> AI tools &amp; beyond
-
-$ cat interests.txt
-├─ 🔮 Divination  → Zi Wei Dou Shu + LLM interpretation
-├─ 💻 Code        → C++ / JS / Python / Vue / TypeScript
-├─ 🏗️ Product     → From idea to shipped
-├─ ⚽ Football    → FCB · Argentina 🇦🇷
-└─ ☕ Coffee      → Always brewing
-</code>
-</pre>
-
-<!-- Social links -->
-<p>
+<p align="center">
   <a href="https://fengzhe.site"><img src="https://img.shields.io/badge/Website-fengzhe.site-004D98?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://x.com/ruizhefeng"><img src="https://img.shields.io/badge/X-@ruizhefeng-75AADB?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.zhihu.com/people/ruijayfeng"><img src="https://img.shields.io/badge/Zhihu-ruijayfeng-004D98?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
@@ -46,9 +25,10 @@ $ cat interests.txt
   <a href="mailto:fz.dev@foxmail.com"><img src="https://img.shields.io/badge/Email-fz.dev%40foxmail.com-004D98?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ruijayfeng&label=Profile%20Views&color=004D98&style=flat-square" alt="visitors" />
-
-</div>
+<p align="center">
+  <sub>Visca el Barça! · Vamos Argentina!</sub> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ruijayfeng&label=Profile%20Views&color=004D98&style=flat-square" alt="visitors" />
+</p>
 
 ---
 
