@@ -1,8 +1,8 @@
 <!--
-  ruijayfeng GitHub Profile — v6
+  ruijayfeng GitHub Profile — v6.1
   Style: Live status page (simonw-adapted) · zero badge wall · football footer nod
   Automation:
-    .github/workflows/build.yml                 rewrites the releases marker block daily
+    .github/workflows/build.yml                 rewrites the activity marker block daily
     .github/workflows/blog-post-workflow.yml    rewrites the BLOG-POST-LIST marker block daily
   Language: ALL English
   [PROTOCOL]: When making changes, update this header first, then check CLAUDE.md
@@ -12,18 +12,14 @@ Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei<
 
 <table><tr><td valign="top" width="50%">
 
-### 📦 Latest releases
+### 🔨 Recently updated
 
-<!-- releases starts -->
-- [zh-writing-humanizer v3.0.0-zh.3](https://github.com/ruijayfeng/zh-writing-humanizer/releases/tag/v3.0.0-zh.3) - 2026-09-20
-- [ziwei-chat v0.2.0](https://github.com/ziweiknows/ziwei-chat/releases/tag/v0.2.0) - 2026-07-20
-- [velvet-ascent-skill v2.0.0](https://github.com/ruijayfeng/velvet-ascent-skill/releases/tag/v2.0.0) - 2026-07-13
-- [ziwei-chat v0.1.1](https://github.com/ziweiknows/ziwei-chat/releases/tag/v0.1.1) - 2026-07-05
-- [ziwei-chat v0.1.0](https://github.com/ziweiknows/ziwei-chat/releases/tag/v0.1.0) - 2026-07-05
-- [ziwei-chart v0.2.0](https://github.com/ziweiknows/ziwei-chart/releases/tag/v0.2.0) - 2026-05-30
-- [ziwei-chart v0.1.1](https://github.com/ziweiknows/ziwei-chart/releases/tag/v0.1.1) - 2026-05-30
-- [ziwei-chart v0.1.0](https://github.com/ziweiknows/ziwei-chart/releases/tag/v0.1.0) - 2026-05-20
-<!-- releases ends -->
+<!-- activity starts -->
+- [gzh-design-skill](https://github.com/ruijayfeng/gzh-design-skill) - ★0 · 2 commits/14d · 词员外个人化微信公众号纯排版 Skill，含现代水墨默认主题与橄榄手记定制母版
+- [ziwei-chart](https://github.com/ziweiknows/ziwei-chart) - ★450 · 2 commits/14d · 开源紫微斗数命盘工具：精准排盘、真太阳时、可视化分析与 AI 解读。 Open-source Zi Wei Dou Shu…
+- [zh-writing-humanizer](https://github.com/ruijayfeng/zh-writing-humanizer) - ★3 · 6 commits/14d · 凯冰的中文写作辅助 Skill：去除 AI 痕迹，支持技术文章、公众号长文与知乎适配，可按个人风格定制。
+- [content-production-skills](https://github.com/ruijayfeng/content-production-skills) - ★0 · 4 commits/14d · Composable AI skills for personal content production workflows
+<!-- activity ends -->
 
 More from <a href="https://github.com/ziweiknows">@ziweiknows</a>
 
