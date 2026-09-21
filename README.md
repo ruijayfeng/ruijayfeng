@@ -1,100 +1,44 @@
 <!--
-  ruijayfeng GitHub Profile — v5
-  Style: Football banner top + Clean minimal + No terminal hero + No activity graph
-  Teams: FC Barcelona (Blaugrana) + Argentina (Albiceleste)
+  ruijayfeng GitHub Profile — v6
+  Style: Live status page (simonw-adapted) · zero badge wall · football footer nod
+  Automation:
+    .github/workflows/build.yml                 rewrites the releases marker block daily
+    .github/workflows/blog-post-workflow.yml    rewrites the BLOG-POST-LIST marker block daily
   Language: ALL English
+  [PROTOCOL]: When making changes, update this header first, then check CLAUDE.md
 -->
 
-<!-- ═══════════════════════ FOOTBALL BANNER ═══════════════════════ -->
+Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei</b></a> — open-source AI tools for Zi Wei Dou Shu (Chinese astrology) at <a href="https://github.com/ziweiknows"><b>@ziweiknows</b></a>. Code · Product · Divination · AI. Read my <a href="https://blog.csdn.net/SDFsoul">blog</a>, follow me <a href="https://x.com/ruizhefeng">on X</a> or <a href="https://www.zhihu.com/people/ruijayfeng">on Zhihu</a>, or <a href="mailto:fz.dev@foxmail.com">drop me a line</a>.
 
-<p align="center">
-  <img src="./assets/barca-msn.jpg" width="100%" alt="FC Barcelona — Visca el Barça!" />
-</p>
+<table><tr><td valign="top" width="50%">
 
-<h3 align="center">Jay Feng · Xi'an</h3>
-<p align="center">
-  Code · Product · Divination · AI<br/>
-  <sub>Building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei</b></a> AI tools &amp; beyond · FCB · Argentina 🇦🇷</sub>
-</p>
+### 📦 Latest releases
 
-<p align="center">
-  <a href="https://fengzhe.site"><img src="https://img.shields.io/badge/Website-fengzhe.site-004D98?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://x.com/ruizhefeng"><img src="https://img.shields.io/badge/X-@ruizhefeng-75AADB?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.zhihu.com/people/ruijayfeng"><img src="https://img.shields.io/badge/Zhihu-ruijayfeng-004D98?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
-  <a href="https://blog.csdn.net/SDFsoul"><img src="https://img.shields.io/badge/CSDN-SDFsoul-75AADB?style=for-the-badge" alt="CSDN"/></a>
-  <a href="mailto:fz.dev@foxmail.com"><img src="https://img.shields.io/badge/Email-fz.dev%40foxmail.com-004D98?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<!-- releases starts -->
+- [zh-writing-humanizer v3.0.0-zh.3](https://github.com/ruijayfeng/zh-writing-humanizer/releases/tag/v3.0.0-zh.3) - 2026-09-20
+- [ziwei-chat v0.2.0](https://github.com/ziweiknows/ziwei-chat/releases/tag/v0.2.0) - 2026-07-20
+- [velvet-ascent-skill v2.0.0](https://github.com/ruijayfeng/velvet-ascent-skill/releases/tag/v2.0.0) - 2026-07-13
+- [ziwei-chat v0.1.1](https://github.com/ziweiknows/ziwei-chat/releases/tag/v0.1.1) - 2026-07-05
+- [ziwei-chat v0.1.0](https://github.com/ziweiknows/ziwei-chat/releases/tag/v0.1.0) - 2026-07-05
+- [ziwei-chart v0.2.0](https://github.com/ziweiknows/ziwei-chart/releases/tag/v0.2.0) - 2026-05-30
+- [ziwei-chart v0.1.1](https://github.com/ziweiknows/ziwei-chart/releases/tag/v0.1.1) - 2026-05-30
+- [ziwei-chart v0.1.0](https://github.com/ziweiknows/ziwei-chart/releases/tag/v0.1.0) - 2026-05-20
+<!-- releases ends -->
 
-<p align="center">
-  <sub>Visca el Barça! · Vamos Argentina!</sub> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ruijayfeng&label=Profile%20Views&color=004D98&style=flat-square" alt="visitors" />
-</p>
+More from <a href="https://github.com/ziweiknows">@ziweiknows</a>
 
----
+</td><td valign="top" width="50%">
 
-## 🛠️ Tech Stack
+### ✍️ Writing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,javascript,vuejs,react,nodejs,typescript,python,docker,git&theme=dark&perline=8" alt="Tech Stack" />
-</p>
+<!-- BLOG-POST-LIST:START -->
+- [闲置安卓机别吃灰：用 OpenList-Mobile 做一台自己的文件服务器](https://blog.csdn.net/SDFsoul/article/details/165755400)
+- [2026 远程桌面工具实战：节点小宝自研协议 + 双屏独立分窗口](https://blog.csdn.net/SDFsoul/article/details/164753413)
+- [让 Live2D 角色真正开始对话：Open-LLM-VTuber 从本地部署到远程访问](https://blog.csdn.net/SDFsoul/article/details/164841555)
+<!-- BLOG-POST-LIST:END -->
 
----
+More on <a href="https://blog.csdn.net/SDFsoul">CSDN</a> · <a href="https://www.zhihu.com/people/ruijayfeng">Zhihu</a>
 
-## 📊 GitHub Stats
+</td></tr></table>
 
-<details open>
-<summary><b>📈 Expand stats</b></summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api?username=ruijayfeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=ruijayfeng&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ruijayfeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ziweiknows%20org-400%20%E2%98%85-004D98?style=flat-square&logo=github&logoColor=white" alt="Org Stars"/>
-  <img src="https://img.shields.io/badge/ruijayfeng%20personal-16%20%E2%98%85-75AADB?style=flat-square&logo=github&logoColor=white" alt="Personal Stars"/>
-  <img src="https://img.shields.io/badge/Total-416%20%E2%98%85-A50044?style=flat-square&logo=github&logoColor=white" alt="Total Stars"/>
-</p>
-
-</details>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruijayfeng/ruijayfeng/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ruijayfeng/ruijayfeng/output/github-contribution-grid-snake.svg" alt="Snake"/>
-  </picture>
-</p>
-
----
-
-<div align="center">
-
-## 📫 Get in touch
-
-<p>
-  <a href="https://fengzhe.site">🌐 fengzhe.site</a> &nbsp;·&nbsp;
-  <a href="https://x.com/ruizhefeng">🐦 @ruizhefeng</a> &nbsp;·&nbsp;
-  <a href="https://blog.csdn.net/SDFsoul">📝 CSDN Blog</a> &nbsp;·&nbsp;
-  <a href="mailto:fz.dev@foxmail.com">💬 fz.dev@foxmail.com</a>
-</p>
-
-<br/>
-
-<img src="./assets/argentina-wc.jpg" width="60%" alt="Argentina — Campeones del Mundo!" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=004D98&height=120&section=footer" alt="footer"/>
-
-<br/>
-<sub>Made with ❤️ and a lot of ☕ · Força Barça! · Vamos Argentina!</sub>
-
-</div>
+<p align="center"><sub>Força Barça! 🔵🔴 · Vamos Argentina! 🇦🇷 · <a href="https://fengzhe.site">fengzhe.site</a></sub></p>
