@@ -15,10 +15,11 @@ Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei<
 ### 🔨 Recently updated
 
 <!-- activity starts -->
+- [nobita-room-3d-seed-2-1-pro](https://github.com/ruijayfeng/nobita-room-3d-seed-2-1-pro) - ★0 · 2 commits/14d · A Three.js reconstruction of Nobita’s room from seven animation…
 - [gzh-design-skill](https://github.com/ruijayfeng/gzh-design-skill) - ★0 · 2 commits/14d · 词员外个人化微信公众号纯排版 Skill，含现代水墨默认主题与橄榄手记定制母版
-- [ziwei-chart](https://github.com/ziweiknows/ziwei-chart) - ★450 · 2 commits/14d · 开源紫微斗数命盘工具：精准排盘、真太阳时、可视化分析与 AI 解读。 Open-source Zi Wei Dou Shu…
-- [zh-writing-humanizer](https://github.com/ruijayfeng/zh-writing-humanizer) - ★3 · 6 commits/14d · 凯冰的中文写作辅助 Skill：去除 AI 痕迹，支持技术文章、公众号长文与知乎适配，可按个人风格定制。
 - [content-production-skills](https://github.com/ruijayfeng/content-production-skills) - ★0 · 4 commits/14d · Composable AI skills for personal content production workflows
+- [zh-writing-humanizer](https://github.com/ruijayfeng/zh-writing-humanizer) - ★3 · 6 commits/14d · 凯冰的中文写作辅助 Skill：去除 AI 痕迹，支持技术文章、公众号长文与知乎适配，可按个人风格定制。
+- [ziwei-chart](https://github.com/ziweiknows/ziwei-chart) - ★450 · 2 commits/14d · 开源紫微斗数命盘工具：精准排盘、真太阳时、可视化分析与 AI 解读。 Open-source Zi Wei Dou Shu…
 <!-- activity ends -->
 
 More from <a href="https://github.com/ziweiknows">@ziweiknows</a>
