@@ -7,6 +7,8 @@
   Language: ALL English
   [PROTOCOL]: When making changes, update this header first, then check CLAUDE.md
 -->
+<img width="2172" height="724" alt="ChatGPT 图像 2026年10月4日 18_44_01" src="https://github.com/user-attachments/assets/0a33a84b-8eb7-430f-8d86-54bd6076e5bf" />
+
 
 Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei</b></a> — open-source AI tools for Zi Wei Dou Shu (Chinese astrology) at <a href="https://github.com/ziweiknows"><b>@ziweiknows</b></a>. Code · Product · Divination · AI. Read my <a href="https://blog.csdn.net/SDFsoul">blog</a>, follow me <a href="https://x.com/ruizhefeng">on X</a> or <a href="https://www.zhihu.com/people/ruijayfeng">on Zhihu</a>, or <a href="mailto:fz.dev@foxmail.com">drop me a line</a>.
 
