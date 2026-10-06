@@ -18,9 +18,8 @@ Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei<
 
 <!-- activity starts -->
 - [kevinbee-article-suite](https://github.com/ruijayfeng/kevinbee-article-suite) - ★0 · 17 commits/14d
-- [zh-writing-humanizer](https://github.com/ruijayfeng/zh-writing-humanizer) - ★3 · 7 commits/14d · 凯冰的中文写作辅助 Skill：去除 AI 痕迹，支持技术文章、公众号长文与知乎适配，可按个人风格定制。
-- [content-production-skills](https://github.com/ruijayfeng/content-production-skills) - ★0 · 2 commits/14d · Composable AI skills for personal content production workflows
-- [gzh-design-skill](https://github.com/ruijayfeng/gzh-design-skill) - ★0 · 5 commits/14d · 词员外个人化微信公众号纯排版 Skill，含现代水墨默认主题与橄榄手记定制母版
+- [zh-writing-humanizer](https://github.com/ruijayfeng/zh-writing-humanizer) - ★3 · 3 commits/14d · 凯冰的中文写作辅助 Skill：去除 AI 痕迹，支持技术文章、公众号长文与知乎适配，可按个人风格定制。
+- [gzh-design-skill](https://github.com/ruijayfeng/gzh-design-skill) - ★0 · 3 commits/14d · 词员外个人化微信公众号纯排版 Skill，含现代水墨默认主题与橄榄手记定制母版
 - [kaibing-xhs-images](https://github.com/ruijayfeng/kaibing-xhs-images) - ★0 · 2 commits/14d · 凯冰 IP 小红书图文 Skill：白底编辑排版、Q 版角色、封面与内页制作，基于 baoyu-xhs-images 改装。
 - [nobita-room-3d-seed-2-1-pro](https://github.com/ruijayfeng/nobita-room-3d-seed-2-1-pro) - ★0 · 2 commits/14d · A Three.js reconstruction of Nobita’s room from seven animation…
 <!-- activity ends -->
