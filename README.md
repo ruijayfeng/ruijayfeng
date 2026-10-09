@@ -17,7 +17,8 @@ Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei<
 ### 🔨 Recently updated
 
 <!-- activity starts -->
-- [creation-island](https://github.com/ruijayfeng/creation-island) - ★0 · 24 commits/14d · 创作岛 Creation Island — AI 互动创作产品，当前处于开发准备阶段
+- [creation-island](https://github.com/ruijayfeng/creation-island) - ★0 · 26 commits/14d · 创作岛 Creation Island — AI 互动创作产品，当前处于开发准备阶段
+- [zzkx-course-cover-skills](https://github.com/ruijayfeng/zzkx-course-cover-skills) - ★0 · 2 commits/14d · 正字快写课程封面制作 Skill：中阶田园水墨与高阶枯笔写意，Agent 按仓库说明安装
 - [kevinbee-article-suite](https://github.com/ruijayfeng/kevinbee-article-suite) - ★0 · 21 commits/14d
 - [kaibing-xhs-images](https://github.com/ruijayfeng/kaibing-xhs-images) - ★0 · 7 commits/14d · 凯冰 IP 小红书图文 Skill：白底编辑排版、Q 版角色、封面与内页制作，基于 baoyu-xhs-images 改装。
 - [zh-writing-humanizer](https://github.com/ruijayfeng/zh-writing-humanizer) - ★3 · 3 commits/14d · 凯冰的中文写作辅助 Skill：去除 AI 痕迹，支持技术文章、公众号长文与知乎适配，可按个人风格定制。
