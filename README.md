@@ -17,7 +17,7 @@ Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei<
 ### 🔨 Recently updated
 
 <!-- activity starts -->
-- [creation-island](https://github.com/ruijayfeng/creation-island) - ★0 · 4 commits/14d · 创作岛 Creation Island — AI 互动创作产品，当前处于开发准备阶段
+- [creation-island](https://github.com/ruijayfeng/creation-island) - ★0 · 3 commits/14d · 创作岛 Creation Island — AI 互动创作产品，当前处于开发准备阶段
 <!-- activity ends -->
 
 More from <a href="https://github.com/ziweiknows">@ziweiknows</a>
