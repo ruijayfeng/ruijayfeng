@@ -17,7 +17,7 @@ Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei<
 ### 🔨 Recently updated
 
 <!-- activity starts -->
-- [creation-island](https://github.com/ruijayfeng/creation-island) - ★0 · 3 commits/14d · 创作岛 Creation Island — AI 互动创作产品，当前处于开发准备阶段
+- [folded-dungeon](https://github.com/ruijayfeng/folded-dungeon) - ★0 · 9 commits/14d · 《折叠地牢》Folded Dungeon — 2D 回合制战术 · 空间构筑 · Roguelike 原型（Godot 4.7 /…
 <!-- activity ends -->
 
 More from <a href="https://github.com/ziweiknows">@ziweiknows</a>
