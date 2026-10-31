@@ -17,7 +17,7 @@ Currently building <a href="https://github.com/ziweiknows/ziwei-chart"><b>ZiWei<
 ### 🔨 Recently updated
 
 <!-- activity starts -->
-- [folded-dungeon](https://github.com/ruijayfeng/folded-dungeon) - ★0 · 9 commits/14d · 《折叠地牢》Folded Dungeon — 2D 回合制战术 · 空间构筑 · Roguelike 原型（Godot 4.7 /…
+- [folded-dungeon](https://github.com/ruijayfeng/folded-dungeon) - ★0 · 36 commits/14d · 《折叠地牢》Folded Dungeon — 2D 回合制战术 · 空间构筑 · Roguelike 原型（Godot 4.7 /…
 <!-- activity ends -->
 
 More from <a href="https://github.com/ziweiknows">@ziweiknows</a>
